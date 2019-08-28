@@ -2,7 +2,7 @@ pipeline {
 
   environment {
     registry = "https://index.docker.io/sudheshpn/k8ci-cd"
-"
+
     dockerImage = ""
   }
 
